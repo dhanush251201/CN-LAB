@@ -1,0 +1,2 @@
+This is a sample text file.
+This will be sent from the server to the requesting client
